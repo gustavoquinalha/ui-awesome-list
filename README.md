@@ -25,6 +25,16 @@
 # Tools
 - https://usepastel.com/
 - https://flowmapp.com/
+- http://teampaper.me/snap/
+
+# Colors
+- https://colorbook.me/
+- https://webgradients.com/
+- https://color.adobe.com/
+
+# Icons 
+- https://orioniconlibrary.com/
+- https://feathericons.com/
 
 # Prototype
 - https://www.invisionapp.com/
@@ -32,7 +42,9 @@
 - https://www.figma.com/
 
 # Styleguides
+- https://atlassian.design/
 - http://styleguides.io/
+- https://marvelapp.com/styleguide/
 
 # Blogs
 - https://designmodo.com/
