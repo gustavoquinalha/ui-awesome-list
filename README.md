@@ -16,6 +16,7 @@
 - https://inspirationmobile.tumblr.com/
 - http://theinspirationgrid.com/category/ui-design/
 - http://365awesomedesigners.com/
+- http://www.calltoidea.com/
 - https://uijar.com/
 
 # Animations
