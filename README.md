@@ -19,6 +19,7 @@
 - http://www.calltoidea.com/
 - https://uijar.com/
 - https://www.uplabs.com/
+- http://competitors.site/
 
 # Prototype
 - https://www.invisionapp.com/
