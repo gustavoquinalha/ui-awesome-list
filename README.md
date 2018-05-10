@@ -177,4 +177,7 @@ http://goodui.org/
 - http://www.raumrot.com/10/
 - http://jaymantri.com/
 
+## Musics
+- https://icons8.com/music/
+
 ### Contribute!!!
