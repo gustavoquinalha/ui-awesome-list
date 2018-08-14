@@ -23,6 +23,7 @@ http://goodui.org/
 - https://www.uplabs.com/
 - http://competitors.site/
 - https://pageflows.com/
+- https://neede.co/
 
 # Prototype
 - https://www.invisionapp.com/
