@@ -103,6 +103,7 @@ http://goodui.org/
 - https://colorbook.me/
 - https://webgradients.com/
 - https://color.adobe.com/
+- https://trendypalettes.com/
 
 # Icons 
 - https://orioniconlibrary.com/
