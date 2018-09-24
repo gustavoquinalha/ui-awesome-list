@@ -100,6 +100,7 @@ http://goodui.org/
 - https://thehungryjpeg.com/freebies/
 
 # Colors
+- https://www.schemecolor.com/
 - https://colorbook.me/
 - https://webgradients.com/
 - https://color.adobe.com/
