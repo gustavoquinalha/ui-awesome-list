@@ -1,9 +1,14 @@
+---
+title: Ui Awesome List
+---
+
+
 # Ui Awesome List
 > A curated list of User Interface links.
 
 http://goodui.org/
 
-# Inspiration
+## Inspiration
 - http://collectui.com/
 - https://dribbble.com/
 - https://www.behance.net/
@@ -25,7 +30,7 @@ http://goodui.org/
 - https://pageflows.com/
 - https://neede.co/
 
-# Prototype
+## Prototype
 - https://www.invisionapp.com/
 - https://zeplin.io/
 - https://www.figma.com/
@@ -40,7 +45,7 @@ http://goodui.org/
 - https://atomic.io/
 - https://www.uxpin.com/
 
-# Styleguides
+## Styleguides
 - http://primercss.io/
 - https://atlassian.design/
 - http://carbondesignsystem.com/
@@ -59,7 +64,7 @@ http://goodui.org/
 - http://design-system.pluralsight.com/
 - https://design.firefox.com/photon/welcome.html
 - https://brand.frontify.com/d/qAiubNBytHKf/style-guide
-- https://material.io/guidelines/material-design/introduction.html#introduction-principles
+- https://material.io/guidelines/material-design/introduction.html##introduction-principles
 - http://purple.herokuapp.com/
 - https://www.uber.design/
 - https://www.ibm.com/design/language/
@@ -71,12 +76,12 @@ http://goodui.org/
 - http://www.audi.com/ci
 - http://styleguides.io/
 
-# Tools
+## Tools
 - https://usepastel.com/
 - https://flowmapp.com/
 - http://teampaper.me/snap/
 
-# Animations
+## Animations
 - http://mojs.io/
 - https://greensock.com/gsap
 - https://daneden.github.io/animate.css/
@@ -94,44 +99,44 @@ http://goodui.org/
 - https://two.js.org/
 - http://maxwellito.github.io/vivus/
 
-# Mockups
+## Mockups
 - https://graphicburger.com/
 - https://psdrepo.com/
 - https://thehungryjpeg.com/freebies/
 
-# Colors
+## Colors
 - https://www.schemecolor.com/
 - https://colorbook.me/
 - https://webgradients.com/
 - https://color.adobe.com/
 - https://trendypalettes.com/
 
-# Icons 
+## Icons
 - https://orioniconlibrary.com/
 - https://feathericons.com/
 
-# Web Font
+## Web Font
 - https://icomoon.io/
 - http://fontastic.me/
 
-# Blogs
+## Blogs
 - https://designmodo.com/
 - https://uxdesign.cc
 - https://tympanus.net/codrops/
 
-# Awards 
+## Awards
 - https://www.awwwards.com/
 - http://www.csswinner.com/
 - https://www.cssdesignawards.com/
 - https://www.cssawards.net/
 
-# Extensions
+## Extensions
 - https://muz.li/
 - https://www.producthunt.com/
 
-# Images
+## Images
 - http://br.freepik.com/
-- http://www.shutterstock.com/ 
+- http://www.shutterstock.com/
 - http://www.deviantart.com/
 - http://www.morguefile.com/
 - http://www.sxc.hu/
@@ -181,7 +186,7 @@ http://goodui.org/
 - http://www.raumrot.com/10/
 - http://jaymantri.com/
 
-## Musics
+#### Musics
 - https://icons8.com/music/
 
-### Contribute!!!
+###### Contribute!!!
