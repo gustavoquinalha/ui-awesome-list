@@ -101,6 +101,7 @@ title: Ui Awesome List
 - https://graphicburger.com/
 - https://psdrepo.com/
 - https://thehungryjpeg.com/freebies/
+- https://applypixels.com/category/freebies/
 
 ## Colors
 - https://www.schemecolor.com/
