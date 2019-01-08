@@ -113,6 +113,7 @@ title: Ui Awesome List
 ## Icons
 - https://orioniconlibrary.com/
 - https://feathericons.com/
+- https://simpleicons.org/
 
 ## Web Font
 - https://icomoon.io/
