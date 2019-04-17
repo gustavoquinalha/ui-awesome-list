@@ -29,6 +29,7 @@ title: Ui Awesome List
 - [https://www.felixjoy.co/designbase](https://www.felixjoy.co/designbase)
 
 # Design Tokens
+- [https://thumbprint.design/tokens/scss/](https://thumbprint.design/tokens/scss/)
 - [https://www.lightningdesignsystem.com/design-tokens/](https://www.lightningdesignsystem.com/design-tokens/)
 - [https://shopify.github.io/polaris-tokens/](https://shopify.github.io/polaris-tokens/)
 - [https://www.formstack.com/brand/design-system/tokens](https://www.formstack.com/brand/design-system/tokens)
