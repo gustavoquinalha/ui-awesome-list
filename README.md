@@ -158,6 +158,9 @@ title: Ui Awesome List
 - [https://feathericons.com/](https://feathericons.com/)
 - [https://simpleicons.org/](https://simpleicons.org/)
 
+## Typography
+- [https://typographyresources.com/](https://typographyresources.com/)
+
 ## Web Font
 - [https://icomoon.io/](https://icomoon.io/)
 - [http://fontastic.me/](http://fontastic.me/)
