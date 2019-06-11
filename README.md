@@ -5,6 +5,9 @@ title: Ui Awesome List
 # Ui Awesome List
 > A curated list of User Interface links.
 
+## Awesomes
+- https://www.bookmarks.design/
+
 ## Inspiration
 - [http://collectui.com/](http://collectui.com/)
 - [https://dribbble.com/](https://dribbble.com/)
