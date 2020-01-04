@@ -151,6 +151,7 @@ title: Ui Awesome List
 - [https://applypixels.com/category/freebies/](https://applypixels.com/category/freebies/)
 
 ## Colors
+- [https://cssgradient.io/gradient-backgrounds/](https://cssgradient.io/gradient-backgrounds/)
 - [https://bgrins.github.io/TinyColor/](https://bgrins.github.io/TinyColor/)
 - [https://www.schemecolor.com/](https://www.schemecolor.com/)
 - [https://colorbook.me/](https://colorbook.me/)
