@@ -159,6 +159,9 @@ title: Ui Awesome List
 - [https://color.adobe.com/](https://color.adobe.com/)
 - [https://trendypalettes.com/](https://trendypalettes.com/)
 
+## Illustrations
+- [https://www.glazestock.com/browse](https://www.glazestock.com/browse)
+
 ## Icons
 - [https://orioniconlibrary.com/](https://orioniconlibrary.com/)
 - [https://feathericons.com/](https://feathericons.com/)
