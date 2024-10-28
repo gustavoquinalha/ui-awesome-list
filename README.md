@@ -158,6 +158,7 @@ title: Ui Awesome List
 - [https://webgradients.com/](https://webgradients.com/)
 - [https://color.adobe.com/](https://color.adobe.com/)
 - [https://trendypalettes.com/](https://trendypalettes.com/)
+- [https://www.inclusivecolors.com/](https://www.inclusivecolors.com/)
 
 ## Illustrations
 - [https://www.glazestock.com/browse](https://www.glazestock.com/browse)
